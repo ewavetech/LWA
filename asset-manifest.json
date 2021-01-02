@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lwa/static/css/main.75b3f638.chunk.css",
+    "main.js": "/lwa/static/js/main.6cfe5a6c.chunk.js",
+    "main.js.map": "/lwa/static/js/main.6cfe5a6c.chunk.js.map",
+    "runtime-main.js": "/lwa/static/js/runtime-main.0237cc81.js",
+    "runtime-main.js.map": "/lwa/static/js/runtime-main.0237cc81.js.map",
+    "static/css/2.81057f45.chunk.css": "/lwa/static/css/2.81057f45.chunk.css",
+    "static/js/2.8702a547.chunk.js": "/lwa/static/js/2.8702a547.chunk.js",
+    "static/js/2.8702a547.chunk.js.map": "/lwa/static/js/2.8702a547.chunk.js.map",
+    "index.html": "/lwa/index.html",
+    "static/css/2.81057f45.chunk.css.map": "/lwa/static/css/2.81057f45.chunk.css.map",
+    "static/css/main.75b3f638.chunk.css.map": "/lwa/static/css/main.75b3f638.chunk.css.map",
+    "static/js/2.8702a547.chunk.js.LICENSE.txt": "/lwa/static/js/2.8702a547.chunk.js.LICENSE.txt",
+    "static/media/calendar.7c320c74.jpeg": "/lwa/static/media/calendar.7c320c74.jpeg",
+    "static/media/devices.757a1515.jpg": "/lwa/static/media/devices.757a1515.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0237cc81.js",
+    "static/css/2.81057f45.chunk.css",
+    "static/js/2.8702a547.chunk.js",
+    "static/css/main.75b3f638.chunk.css",
+    "static/js/main.6cfe5a6c.chunk.js"
+  ]
+}
